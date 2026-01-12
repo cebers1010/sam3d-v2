@@ -1,12 +1,8 @@
-gradio
-spaces
+runpod
 torch
 numpy
 rembg
 huggingface_hub
-# PyTorch3D and Kaolin are complex. We try to install them via git/wheels.
-# This assumes the environment has CUDA compatible with these.
-
 omegaconf
 hydra-core
 hydra-submitit-launcher
